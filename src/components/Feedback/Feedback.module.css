@@ -1,0 +1,16 @@
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+}
+
+.btn {
+    padding: 5px 10px;
+    border: 1px solid grey;
+    border-radius: 5px;
+    background-color: transparent;
+    color: #333;
+    cursor: pointer;
+    text-transform: capitalize;
+}
